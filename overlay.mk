@@ -71,6 +71,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-nokia-pnx-8.1-x7 \
 	treble-overlay-nokia-pnx-8.1-x7-systemui \
 	treble-overlay-nubia-z18mini \
+	treble-overlay-cubot-x19 \
 	treble-overlay-razer-cheryl \
 	treble-overlay-realme-6 \
 	treble-overlay-realme-6i \
