@@ -71,9 +71,6 @@ PRODUCT_PACKAGES += \
 	treble-overlay-nokia-pnx-8.1-x7 \
 	treble-overlay-nokia-pnx-8.1-x7-systemui \
 	treble-overlay-nubia-z18mini \
-	treble-overlay-oneplus-op6 \
-	treble-overlay-oneplus-op6t \
-	treble-overlay-oneplus-op6t-systemui \
 	treble-overlay-razer-cheryl \
 	treble-overlay-realme-6 \
 	treble-overlay-realme-6i \
